@@ -3,8 +3,8 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Data Viz Demo`,
-    siteUrl: `https://www.yourdomain.tld`
+    title: `Data Visualization Playground`,
+    siteUrl: `https://www.dataviz.kennytso.com`
   },
   plugins: ["gatsby-plugin-sass"]
 };
